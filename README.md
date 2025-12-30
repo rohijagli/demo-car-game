@@ -41,6 +41,13 @@ A simple **car racing game** built with **Python and Pygame**, fully self-contai
 - ❌ Close Window → Quit game  
 
 ---
+## 🚀 Future Features / Roadmap
+
+- Add coins or power-ups
+- Add engine and crash sound effects
+- Increase speed and difficulty dynamically
+- Add mobile or touchscreen controls
+- Add customizable car colors
 
 ## 🛠️ Installation
 
@@ -49,11 +56,4 @@ A simple **car racing game** built with **Python and Pygame**, fully self-contai
 ```bash
 pip install pygame
 
-## 🚀 Future Features / Roadmap
-
-- Add coins or power-ups
-- Add engine and crash sound effects
-- Increase speed and difficulty dynamically
-- Add mobile or touchscreen controls
-- Add customizable car colors
 
